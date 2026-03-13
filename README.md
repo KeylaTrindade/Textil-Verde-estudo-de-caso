@@ -1,6 +1,6 @@
 # Reestruturação Sustentável: Estudo de Caso da Têxtil Verde
  
-**Tipo:** Projeto acadêmico  
+**Tipo:** Projeto acadêmico - Projeto Integrado Síntese
 **Período de desenvolvimento:** 1º semestre de 2025  
 **Publicado no GitHub:** 2026                   
 **Ferramentas aplicadas:** SWOT • PDCA • EAP
